@@ -1,0 +1,88 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Abkürzungen}{III}{section*.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Aufgabenstellung}{2}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1}Analyse der Unterlagen}{2}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2}Grafische Oberfläche}{2}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Analyse und Überarbeitung der Planungsunterlagen}{4}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Überarbeitung der Ein- und Ausgangsliste}{4}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Ermittlung der eingesetzten Geräte}{4}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Erstellung der Linientopologie}{5}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Umsetzung in TIA-Portal}{6}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}TIA Portal}{6}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2}Erstellung der Übersicht}{6}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3}Erstellung der Bildbausteine}{6}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4}Animationen der Bausteine}{6}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1}Farbbedeutungen}{6}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2}Sichtbarkeit von Bausteinen}{6}{subsection.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Joy-Pi}{7}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1}Aufbau}{7}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2}Raspberry Pi}{7}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3}Sensoren und Aktoren}{8}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1}Sensoren}{8}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2}Aktoren}{9}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4}Besonderheiten des Joy-Pi}{9}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1}Logik}{9}{subsection.5.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2}Board-Nummern}{10}{subsection.5.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3}Python-Version}{10}{subsection.5.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Realisierung des Projektes}{11}{chapter.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Ansteuerung der Sensoren und Aktoren}{11}{section.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Grafische Oberfäche mit Tkinter}{13}{section.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.3}TCP/IP-Verbindung}{15}{section.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {7}Ergebnis}{16}{chapter.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.1}Hardware}{16}{section.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.2}Grafische Oberfläche}{17}{section.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7.3}Verbindung}{18}{section.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {8}Zusammenfassung und Ausblick}{20}{chapter.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Abbildungsverzeichnis}{22}{chapter*.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Tabellenverzeichnis}{23}{chapter*.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Quelltextverzeichnis}{24}{chapter*.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\nonumberline Literaturverzeichnis}{25}{chapter*.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {A}Anhang: Quelltext des Projektes}{26}{appendix.A}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.1}main\_server.py}{27}{section.A.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.2}server.py}{28}{section.A.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.3}main\_client.py}{31}{section.A.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A.4}client.py}{32}{section.A.4}%

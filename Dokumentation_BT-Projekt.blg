@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Dokumentation_BT-Projekt.aux
+The style file: biblatex.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Dokumentation_BT-Projekt-blx.bib
+Database file #2: Literatur.bib
+Warning--entry type for "latex:gpio" isn't style-file defined
+--line 1 of file Literatur.bib
+Warning--entry type for "latex:tkinter" isn't style-file defined
+--line 8 of file Literatur.bib
+Warning--entry type for "latex:tcpip" isn't style-file defined
+--line 15 of file Literatur.bib
+Warning--entry type for "latex:json" isn't style-file defined
+--line 23 of file Literatur.bib
+Warning--entry type for "latex:pulld" isn't style-file defined
+--line 30 of file Literatur.bib
+Warning--entry type for "latex:json2" isn't style-file defined
+--line 38 of file Literatur.bib
+Warning--entry type for "latex:raspberrypi" isn't style-file defined
+--line 55 of file Literatur.bib
+Warning--entry type for "latex:socket" isn't style-file defined
+--line 63 of file Literatur.bib
+Warning--entry type for "latex:socket2" isn't style-file defined
+--line 70 of file Literatur.bib
+Warning--entry type for "latex:anleitung" isn't style-file defined
+--line 77 of file Literatur.bib
+Biblatex version: 3.13
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+You've used 12 entries,
+            6365 wiz_defined-function locations,
+            1238 strings with 10289 characters,
+and the built_in function-call counts, 21415 in all, are:
+= -- 688
+> -- 168
+< -- 193
++ -- 137
+- -- 54
+* -- 997
+:= -- 948
+add.period$ -- 0
+call.type$ -- 12
+change.case$ -- 11
+chr.to.int$ -- 42
+cite$ -- 22
+duplicate$ -- 2726
+empty$ -- 3127
+format.name$ -- 48
+if$ -- 5046
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 0
+newline$ -- 137
+num.names$ -- 63
+pop$ -- 3602
+preamble$ -- 1
+purify$ -- 61
+quote$ -- 0
+skip$ -- 1001
+stack$ -- 0
+substring$ -- 563
+swap$ -- 918
+text.length$ -- 183
+text.prefix$ -- 11
+top$ -- 1
+type$ -- 386
+warning$ -- 0
+while$ -- 130
+width$ -- 0
+write$ -- 126
+(There were 10 warnings)

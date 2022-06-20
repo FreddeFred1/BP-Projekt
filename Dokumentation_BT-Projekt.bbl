@@ -1,0 +1,139 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{nty/global//global/global}
+  \entry{latex:anleitung}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{A}
+    \field{sortinithash}{A}
+  \field{howpublished}{\url{anleitung.joy-it.net/wp-content/uploads/2018/10/RB-JoyPi-Anleitung.pdf
+  }}
+    \field{note}{Eingesehen am 04.01.2020}
+    \field{title}{Anleitung zum Joy-Pi}
+  \endentry
+
+  \entry{latex:tkinter}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{howpublished}{\url{https://docs.python.org/3/library/tk.html}}
+    \field{note}{Eingesehen am 14.12.2019}
+    \field{title}{Graphical User Interfaces with Tk}
+  \endentry
+
+  \entry{latex:json2}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{howpublished}{\url{https://www.w3schools.com/js/js_json_intro.aspl}}
+    \field{note}{Eingesehen am 18.12.2019}
+    \field{title}{JSON - Introduction}
+  \endentry
+
+  \entry{latex:json}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{howpublished}{\url{https://docs.python.org/3/library/json.html}}
+    \field{note}{Eingesehen am 17.12.2019}
+    \field{title}{JSON encoder and decoder}
+  \endentry
+
+  \entry{latex:kofler}{book}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Kofler},
+         familyi={K\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Rheinwerk Computing}%
+    }
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{edition}{1. Auflage}
+    \field{isbn}{978-3-8362-6679-6}
+    \field{title}{Python-Der Grundkurs}
+    \verb{url}
+    \verb https://kofler.info/buecher/python/
+    \endverb
+    \field{year}{2019}
+  \endentry
+
+  \entry{latex:gpio}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{howpublished}{\url{https://pypi.org/project/RPi.GPIO/}}
+    \field{note}{Eingesehen am 13.12.2019}
+    \field{title}{RPi.GPIO Project description}
+  \endentry
+
+  \entry{latex:socket2}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{\url{https://pythontic.com/modules/socket/send}}
+    \field{note}{Eingesehen am 02.01.2020}
+    \field{title}{Send() Function Of Python Socket Class}
+  \endentry
+
+  \entry{latex:tcpip}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+  \field{howpublished}{\url{https://www.elektronik-kompendium.de/sites/net/0606251.html}}
+    \field{note}{Eingesehen am 17.12.2019}
+    \field{title}{TCP/IP}
+  \endentry
+
+  \entry{latex:raspberrypi}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{T}
+    \field{sortinithash}{T}
+  \field{howpublished}{\url{https://www.elektronikpraxis.vogel.de/raspberry-pi-3-bringt-12-ghz-64-bit-quadcore-wlan-und-bluetooth-fuer-iot-a-523253/index2.html
+  }}
+    \field{note}{Eingesehen am 19.12.2019}
+    \field{title}{Technische Daten des Raspberry-Pi}
+  \endentry
+
+  \entry{latex:pulld}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{W}
+    \field{sortinithash}{W}
+  \field{howpublished}{\url{https://www.elektronik-kompendium.de/public/schaerer/pullr.html}}
+    \field{note}{Eingesehen am 18.12.2019}
+    \field{title}{Was ist ein Pullup- und ein Pulldown-Widerstand?}
+  \endentry
+
+  \entry{latex:socket}{misc}{}
+    \field{labeltitlesource}{title}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{howpublished}{\url{https://docs.python.org/3.8/library/socket.html}}
+    \field{note}{Eingesehen am 02.01.2020}
+    \field{title}{socket — Low-level networking interface}
+  \endentry
+\enddatalist
+\endinput
