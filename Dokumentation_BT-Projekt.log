@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.20)  20 JUN 2022 16:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.11.20)  23 JUN 2022 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -992,7 +992,7 @@ Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
 \openout5 = `Dokumentation_BT-Projekt.acn'.
 
 Package glossaries Info: Writing glossary file Dokumentation_BT-Projekt.acn on 
-input line 98.
+input line 99.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
@@ -1019,20 +1019,20 @@ Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (./Dokumentation_BT-Projekt.aux)
 \openout1 = `Dokumentation_BT-Projekt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 158.
-LaTeX Font Info:    ... okay on input line 158.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 159.
+LaTeX Font Info:    ... okay on input line 159.
 
 (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1077,10 +1077,10 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Dokumentation_BT-Projekt.bbl' found.
 
 (./Dokumentation_BT-Projekt.bbl)
-Package biblatex Info: Reference section=0 on input line 158.
-Package biblatex Info: Reference segment=0 on input line 158.
+Package biblatex Info: Reference section=0 on input line 159.
+Package biblatex Info: Reference segment=0 on input line 159.
 \AtBeginShipoutBox=\box45
-Package hyperref Info: Link coloring OFF on input line 158.
+Package hyperref Info: Link coloring OFF on input line 159.
 
 (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1093,9 +1093,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count360
 )
-LaTeX Info: Redefining \ref on input line 158.
-LaTeX Info: Redefining \pageref on input line 158.
-LaTeX Info: Redefining \nameref on input line 158.
+LaTeX Info: Redefining \ref on input line 159.
+LaTeX Info: Redefining \pageref on input line 159.
+LaTeX Info: Redefining \nameref on input line 159.
 
 (./Dokumentation_BT-Projekt.out) (./Dokumentation_BT-Projekt.out)
 \@outlinefile=\write6
@@ -1108,7 +1108,7 @@ Class scrreprt Info: loading recommended package `bookmark'.
 (scrreprt)           `bookmarkpackage=false' before \begin{document} and
 (scrreprt)           you can avoid this message adding:
 (scrreprt)             \usepackage{bookmark}
-(scrreprt)           before \begin{document} on input line 158.
+(scrreprt)           before \begin{document} on input line 159.
 
 (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/bookmark.sty
 Package: bookmark 2019/06/04 v1.27 PDF bookmarks (HO)
@@ -1165,10 +1165,10 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 84.
 <./_bilder/__fhdologo.png, id=4, 560.0925pt x 72.27pt>
 File: ./_bilder/__fhdologo.png Graphic file (type png)
 <use ./_bilder/__fhdologo.png>
-Package pdftex.def Info: ./_bilder/__fhdologo.png  used on input line 187.
+Package pdftex.def Info: ./_bilder/__fhdologo.png  used on input line 188.
 (pdftex.def)             Requested size: 455.24411pt x 58.74347pt.
 LaTeX Font Info:    Trying to load font information for T1+cmss on input line 1
-87.
+88.
 (c:/texlive/2019/texmf-dist/tex/latex/base/t1cmss.fd
 File: t1cmss.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 ) [1
@@ -1189,7 +1189,7 @@ ologo.png>]
 
 Package glossaries Warning: Deprecated command \glossarystyle.
  I recommend you switch to \setglossarystyle unless you want to maintain backwa
-rd compatibility on input line 243.
+rd compatibility on input line 244.
 
 (./Dokumentation_BT-Projekt.acr) [3
 
@@ -1198,7 +1198,7 @@ rd compatibility on input line 243.
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.272 \chapter
+l.273 \chapter
               {Aufgabenstellung} [1
 
 ]
@@ -1221,7 +1221,7 @@ Class scrreprt Warning: \float@addtolists detected!
 <./_bilder/PID_Flakes.png, id=142, 674.52pt x 569.87906pt>
 File: ./_bilder/PID_Flakes.png Graphic file (type png)
 <use ./_bilder/PID_Flakes.png>
-Package pdftex.def Info: ./_bilder/PID_Flakes.png  used on input line 282.
+Package pdftex.def Info: ./_bilder/PID_Flakes.png  used on input line 283.
 (pdftex.def)             Requested size: 422.53116pt x 298.7475pt.
 [2
 
@@ -1236,335 +1236,231 @@ chapter 3.
 ]
 chapter 4.
 
-Underfull \vbox (badness 10000) detected at line 327
+Underfull \vbox (badness 10000) detected at line 328
  []
-
-
-LaTeX Warning: Reference `ac:fu' on page 6 undefined on input line 329.
-
-
-LaTeX Warning: Reference `ac:fu' on page 6 undefined on input line 329.
-
-
-LaTeX Warning: Reference `ac:fu' on page 6 undefined on input line 329.
-
-
-LaTeX Warning: Reference `ac:fu' on page 6 undefined on input line 329.
-
-
-LaTeX Warning: Reference `ac:fu' on page 6 undefined on input line 329.
 
 [6
 
 ]
-Underfull \vbox (badness 10000) detected at line 339
+Underfull \vbox (badness 10000) detected at line 340
  []
 
-[7]
+
+LaTeX Warning: File `./_bilder/Chaos.png' not found on input line 351.
+
+
+! Package pdftex.def Error: File `./_bilder/Chaos.png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.351 ....85cm,height=10.5cm]{./_bilder/Chaos.png}
+                                                   % 80-Prozent der Textbrei...
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 3
+51.
+(c:/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+) [7] [8]
 chapter 5.
-<./_bilder/koffer.jpg, id=184, 2107.875pt x 2167.09625pt>
+<./_bilder/koffer.jpg, id=196, 2107.875pt x 2167.09625pt>
 File: ./_bilder/koffer.jpg Graphic file (type jpg)
 <use ./_bilder/koffer.jpg>
-Package pdftex.def Info: ./_bilder/koffer.jpg  used on input line 351.
+Package pdftex.def Info: ./_bilder/koffer.jpg  used on input line 367.
 (pdftex.def)             Requested size: 284.51868pt x 284.51004pt.
-<./_bilder/raspi.jpg, id=187, 506.89375pt x 589.20125pt>
+<./_bilder/raspi.jpg, id=199, 506.89375pt x 589.20125pt>
 File: ./_bilder/raspi.jpg Graphic file (type jpg)
 <use ./_bilder/raspi.jpg>
-Package pdftex.def Info: ./_bilder/raspi.jpg  used on input line 362.
+Package pdftex.def Info: ./_bilder/raspi.jpg  used on input line 378.
 (pdftex.def)             Requested size: 142.26187pt x 142.26527pt.
-[8
+[9
 
  <./_bilder/koffer.jpg>]
-<./_bilder/Sensoren_Aktoren.png, id=196, 3540.22626pt x 2168.1pt>
+<./_bilder/Sensoren_Aktoren.png, id=209, 3540.22626pt x 2168.1pt>
 File: ./_bilder/Sensoren_Aktoren.png Graphic file (type png)
 <use ./_bilder/Sensoren_Aktoren.png>
-Package pdftex.def Info: ./_bilder/Sensoren_Aktoren.png  used on input line 374
+Package pdftex.def Info: ./_bilder/Sensoren_Aktoren.png  used on input line 390
 .
 (pdftex.def)             Requested size: 409.71692pt x 250.89767pt.
 
-Underfull \vbox (badness 10000) detected at line 399
+Underfull \vbox (badness 10000) detected at line 415
  []
 
-[9 <./_bilder/raspi.jpg> <./_bilder/Sensoren_Aktoren.png>]
-Underfull \vbox (badness 10000) detected at line 418
+[10 <./_bilder/raspi.jpg> <./_bilder/Sensoren_Aktoren.png>]
+Underfull \vbox (badness 10000) detected at line 434
  []
 
-[10]
-<./_bilder/Board_Nummern.png, id=228, 480.79625pt x 141.02687pt>
+[11]
+<./_bilder/Board_Nummern.png, id=240, 480.79625pt x 141.02687pt>
 File: ./_bilder/Board_Nummern.png Graphic file (type png)
 <use ./_bilder/Board_Nummern.png>
-Package pdftex.def Info: ./_bilder/Board_Nummern.png  used on input line 430.
+Package pdftex.def Info: ./_bilder/Board_Nummern.png  used on input line 446.
 (pdftex.def)             Requested size: 398.34915pt x 113.81151pt.
- [11 <./_bilder/Board_Nummern.png>]
+ [12 <./_bilder/Board_Nummern.png>]
 chapter 6.
-<./_bilder/Buttons_Beschriftet.png, id=245, 468.24937pt x 460.72125pt>
+<./_bilder/Buttons_Beschriftet.png, id=257, 468.24937pt x 460.72125pt>
 File: ./_bilder/Buttons_Beschriftet.png Graphic file (type png)
 <use ./_bilder/Buttons_Beschriftet.png>
 Package pdftex.def Info: ./_bilder/Buttons_Beschriftet.png  used on input line 
-452.
+468.
 (pdftex.def)             Requested size: 199.17125pt x 199.1678pt.
-<./_bilder/LED_beschriftet.png, id=246, 219.82124pt x 462.22687pt>
+<./_bilder/LED_beschriftet.png, id=258, 219.82124pt x 462.22687pt>
 File: ./_bilder/LED_beschriftet.png Graphic file (type png)
 <use ./_bilder/LED_beschriftet.png>
-Package pdftex.def Info: ./_bilder/LED_beschriftet.png  used on input line 461.
+Package pdftex.def Info: ./_bilder/LED_beschriftet.png  used on input line 477.
 
 (pdftex.def)             Requested size: 99.58276pt x 227.62163pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 463--463
+Underfull \hbox (badness 10000) in paragraph at lines 479--479
 [][][]\T1/cmr/m/n/10.95 Im Pro-jekt ver-wen-de-te
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--472
+Underfull \hbox (badness 10000) in paragraph at lines 487--488
 
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-73.
-(c:/texlive/2019/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-Underfull \hbox (badness 10000) in paragraph at lines 473--474
+
+Underfull \hbox (badness 10000) in paragraph at lines 489--490
 
  []
 
-[12
+[13
 
  <./_bilder/Buttons_Beschriftet.PNG> <./_bilder/LED_beschriftet.PNG>]
 (c:/texlive/2019/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 )
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 476.
+Package xcolor Warning: Incompatible color definition on input line 492.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 479.
+Package xcolor Warning: Incompatible color definition on input line 495.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
 
-Package xcolor Warning: Incompatible color definition on input line 482.
+Package xcolor Warning: Incompatible color definition on input line 498.
 
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 490--491
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 506--507
 
  []
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 493.
+Package xcolor Warning: Incompatible color definition on input line 509.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 496.
+Package xcolor Warning: Incompatible color definition on input line 512.
 
 
-Package xcolor Warning: Incompatible color definition on input line 499.
+Package xcolor Warning: Incompatible color definition on input line 515.
 
 
-Package xcolor Warning: Incompatible color definition on input line 499.
+Package xcolor Warning: Incompatible color definition on input line 515.
 
-<./_bilder/Gui_1-aus_2-an.png, id=301, 416.30531pt x 85.06781pt>
+<./_bilder/Gui_1-aus_2-an.png, id=312, 416.30531pt x 85.06781pt>
 File: ./_bilder/Gui_1-aus_2-an.png Graphic file (type png)
 <use ./_bilder/Gui_1-aus_2-an.png>
-Package pdftex.def Info: ./_bilder/Gui_1-aus_2-an.png  used on input line 516.
+Package pdftex.def Info: ./_bilder/Gui_1-aus_2-an.png  used on input line 532.
 (pdftex.def)             Requested size: 398.35904pt x 85.36224pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 524--525
+Underfull \hbox (badness 10000) in paragraph at lines 540--541
 
  []
 
 LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <9> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 527.
-
-Package xcolor Warning: Incompatible color definition on input line 530.
-
-
-Package xcolor Warning: Incompatible color definition on input line 530.
-
-
-Package xcolor Warning: Incompatible color definition on input line 530.
-
-[14 <./_bilder/Gui_1-aus_2-an.PNG>]
-
-Package xcolor Warning: Incompatible color definition on input line 531.
-
-
-Package xcolor Warning: Incompatible color definition on input line 531.
-
-
-Package xcolor Warning: Incompatible color definition on input line 531.
-
-
-Package xcolor Warning: Incompatible color definition on input line 531.
-
-
-Package xcolor Warning: Incompatible color definition on input line 533.
-
-
-Package xcolor Warning: Incompatible color definition on input line 533.
-
-
-Package xcolor Warning: Incompatible color definition on input line 533.
-
-
-Package xcolor Warning: Incompatible color definition on input line 533.
-
-
-Package xcolor Warning: Incompatible color definition on input line 533.
-
-
-Package xcolor Warning: Incompatible color definition on input line 534.
-
-
-Package xcolor Warning: Incompatible color definition on input line 534.
-
-
-Package xcolor Warning: Incompatible color definition on input line 534.
-
-
-Package xcolor Warning: Incompatible color definition on input line 536.
-
-
-Package xcolor Warning: Incompatible color definition on input line 536.
-
-
-Package xcolor Warning: Incompatible color definition on input line 536.
-
-
-Package xcolor Warning: Incompatible color definition on input line 539.
-
-
-Package xcolor Warning: Incompatible color definition on input line 539.
-
-
-Package xcolor Warning: Incompatible color definition on input line 539.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 542.
-
-
-Package xcolor Warning: Incompatible color definition on input line 545.
-
-
-Package xcolor Warning: Incompatible color definition on input line 545.
-
-
-Package xcolor Warning: Incompatible color definition on input line 545.
-
-
-Package xcolor Warning: Incompatible color definition on input line 545.
-
-
-Package xcolor Warning: Incompatible color definition on input line 545.
-
+(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 543.
 
 Package xcolor Warning: Incompatible color definition on input line 546.
 
@@ -1574,217 +1470,323 @@ Package xcolor Warning: Incompatible color definition on input line 546.
 
 Package xcolor Warning: Incompatible color definition on input line 546.
 
+[15 <./_bilder/Gui_1-aus_2-an.PNG>]
 
-Package xcolor Warning: Incompatible color definition on input line 548.
-
-
-Package xcolor Warning: Incompatible color definition on input line 548.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
 
-Package xcolor Warning: Incompatible color definition on input line 548.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
 
-Package xcolor Warning: Incompatible color definition on input line 551.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
 
-Package xcolor Warning: Incompatible color definition on input line 551.
+Package xcolor Warning: Incompatible color definition on input line 547.
 
 
-Package xcolor Warning: Incompatible color definition on input line 551.
+Package xcolor Warning: Incompatible color definition on input line 549.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 549.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 549.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 549.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 549.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 550.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 550.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 550.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 552.
 
 
-Package xcolor Warning: Incompatible color definition on input line 554.
+Package xcolor Warning: Incompatible color definition on input line 552.
 
-[15]
-<./_bilder/Kommunikation_1.png, id=374, 388.95313pt x 131.49126pt>
+
+Package xcolor Warning: Incompatible color definition on input line 552.
+
+
+Package xcolor Warning: Incompatible color definition on input line 555.
+
+
+Package xcolor Warning: Incompatible color definition on input line 555.
+
+
+Package xcolor Warning: Incompatible color definition on input line 555.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 558.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 562.
+
+
+Package xcolor Warning: Incompatible color definition on input line 562.
+
+
+Package xcolor Warning: Incompatible color definition on input line 562.
+
+
+Package xcolor Warning: Incompatible color definition on input line 564.
+
+
+Package xcolor Warning: Incompatible color definition on input line 564.
+
+
+Package xcolor Warning: Incompatible color definition on input line 564.
+
+
+Package xcolor Warning: Incompatible color definition on input line 567.
+
+
+Package xcolor Warning: Incompatible color definition on input line 567.
+
+
+Package xcolor Warning: Incompatible color definition on input line 567.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+
+Package xcolor Warning: Incompatible color definition on input line 570.
+
+[16]
+<./_bilder/Kommunikation_1.png, id=385, 388.95313pt x 131.49126pt>
 File: ./_bilder/Kommunikation_1.png Graphic file (type png)
 <use ./_bilder/Kommunikation_1.png>
-Package pdftex.def Info: ./_bilder/Kommunikation_1.png  used on input line 568.
+Package pdftex.def Info: ./_bilder/Kommunikation_1.png  used on input line 584.
 
 (pdftex.def)             Requested size: 298.76482pt x 105.2794pt.
 
-Underfull \hbox (badness 1852) in paragraph at lines 570--570
+Underfull \hbox (badness 1852) in paragraph at lines 586--586
 [][][]\T1/cmr/m/n/10.95 Datenaustausch zwi-schen ex-ter-nem Com-pu-ter und Joy-
 Pi über [][]TCP/IP[]-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 577--581
+Underfull \hbox (badness 10000) in paragraph at lines 593--597
 
  []
 
-[16 <./_bilder/Kommunikation_1.png>]
+[17 <./_bilder/Kommunikation_1.png>]
 chapter 7.
-<./_bilder/Hardware.png, id=404, 3540.22626pt x 2168.1pt>
+<./_bilder/Hardware.png, id=415, 3540.22626pt x 2168.1pt>
 File: ./_bilder/Hardware.png Graphic file (type png)
 <use ./_bilder/Hardware.png>
-Package pdftex.def Info: ./_bilder/Hardware.png  used on input line 590.
+Package pdftex.def Info: ./_bilder/Hardware.png  used on input line 606.
 (pdftex.def)             Requested size: 455.24411pt x 278.78622pt.
-[17
+[18
 
  <./_bilder/Hardware.png>]
-<./_bilder/LEDZustand.jpg, id=417, 2792.4325pt x 1100.11pt>
+<./_bilder/LEDZustand.jpg, id=428, 2792.4325pt x 1100.11pt>
 File: ./_bilder/LEDZustand.jpg Graphic file (type jpg)
 <use ./_bilder/LEDZustand.jpg>
-Package pdftex.def Info: ./_bilder/LEDZustand.jpg  used on input line 602.
+Package pdftex.def Info: ./_bilder/LEDZustand.jpg  used on input line 618.
 (pdftex.def)             Requested size: 455.24411pt x 179.34488pt.
-<./_bilder/GUI1an.jpg, id=424, 853.1875pt x 200.75pt>
+<./_bilder/GUI1an.jpg, id=435, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI1an.jpg Graphic file (type jpg)
 <use ./_bilder/GUI1an.jpg>
-Package pdftex.def Info: ./_bilder/GUI1an.jpg  used on input line 616.
+Package pdftex.def Info: ./_bilder/GUI1an.jpg  used on input line 632.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
-<./_bilder/GUI1aus.jpg, id=425, 853.1875pt x 200.75pt>
+<./_bilder/GUI1aus.jpg, id=436, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI1aus.jpg Graphic file (type jpg)
 <use ./_bilder/GUI1aus.jpg>
-Package pdftex.def Info: ./_bilder/GUI1aus.jpg  used on input line 626.
+Package pdftex.def Info: ./_bilder/GUI1aus.jpg  used on input line 642.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
- [18 <./_bilder/LEDZustand.JPG> <./_bilder/GUI1an.JPG>]
-<./_bilder/GUI2an.jpg, id=436, 853.1875pt x 200.75pt>
+ [19 <./_bilder/LEDZustand.JPG> <./_bilder/GUI1an.JPG>]
+<./_bilder/GUI2an.jpg, id=447, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI2an.jpg Graphic file (type jpg)
 <use ./_bilder/GUI2an.jpg>
-Package pdftex.def Info: ./_bilder/GUI2an.jpg  used on input line 638.
+Package pdftex.def Info: ./_bilder/GUI2an.jpg  used on input line 654.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
-<./_bilder/GUI2aus.jpg, id=437, 853.1875pt x 200.75pt>
+<./_bilder/GUI2aus.jpg, id=448, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI2aus.jpg Graphic file (type jpg)
 <use ./_bilder/GUI2aus.jpg>
-Package pdftex.def Info: ./_bilder/GUI2aus.jpg  used on input line 648.
+Package pdftex.def Info: ./_bilder/GUI2aus.jpg  used on input line 664.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
- [19 <./_bilder/GUI1aus.JPG> <./_bilder/GUI2an.JPG> <./_bilder/GUI2aus.JPG>]
+ [20 <./_bilder/GUI1aus.JPG> <./_bilder/GUI2an.JPG> <./_bilder/GUI2aus.JPG>]
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 664.
+Package xcolor Warning: Incompatible color definition on input line 680.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 665.
+Package xcolor Warning: Incompatible color definition on input line 681.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 667.
+Package xcolor Warning: Incompatible color definition on input line 683.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
 
-Package xcolor Warning: Incompatible color definition on input line 668.
+Package xcolor Warning: Incompatible color definition on input line 684.
 
-[20]
+[21]
 chapter 8.
-[21
+[22
 
-] [22] (./Dokumentation_BT-Projekt.lof)
+] [23] (./Dokumentation_BT-Projekt.lof)
 \tf@lof=\write8
 \openout8 = `Dokumentation_BT-Projekt.lof'.
 
- [23
+ [24
 
 ] (./Dokumentation_BT-Projekt.lot)
 \tf@lot=\write9
 \openout9 = `Dokumentation_BT-Projekt.lot'.
 
- [24
+ [25
 
 ]
 
@@ -1798,7 +1800,7 @@ Class scrreprt Warning: \float@listhead detected!
 (scrreprt)              Loading of package `scrhack' may help to
 (scrreprt)              avoid this warning, if you are using a
 (scrreprt)              a package that still implements the
-(scrreprt)              deprecated \float@listhead interface  on input line 698
+(scrreprt)              deprecated \float@listhead interface  on input line 714
 .
 
 chapter without number
@@ -1806,16 +1808,16 @@ chapter without number
 \tf@lol=\write10
 \openout10 = `Dokumentation_BT-Projekt.lol'.
 
- [25
+ [26
 
 ]
 chapter without number
-[26
+[27
 
 ]
 chapter A.
 
-Underfull \hbox (badness 10000) in paragraph at lines 710--715
+Underfull \hbox (badness 10000) in paragraph at lines 726--731
 
  []
 
@@ -1823,10 +1825,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 710--715
 
 pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_server.pdf, id=556, 597.23125pt x 845.1575pt>
+<main_server.pdf, id=568, 597.23125pt x 845.1575pt>
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf>
-Package pdftex.def Info: main_server.pdf  used on input line 716.
+Package pdftex.def Info: main_server.pdf  used on input line 732.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1834,7 +1836,7 @@ pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf>
-Package pdftex.def Info: main_server.pdf  used on input line 716.
+Package pdftex.def Info: main_server.pdf  used on input line 732.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1844,80 +1846,38 @@ pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
 
 pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_server.pdf, id=559, page=1, 597.23125pt x 845.1575pt>
+<main_server.pdf, id=571, page=1, 597.23125pt x 845.1575pt>
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
-Package pdftex.def Info: main_server.pdf , page1 used on input line 716.
+Package pdftex.def Info: main_server.pdf , page1 used on input line 732.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
-Package pdftex.def Info: main_server.pdf , page1 used on input line 716.
+Package pdftex.def Info: main_server.pdf , page1 used on input line 732.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-[27
+[28
 
 ]
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
-Package pdftex.def Info: main_server.pdf , page1 used on input line 716.
+Package pdftex.def Info: main_server.pdf , page1 used on input line 732.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
-Package pdftex.def Info: main_server.pdf , page1 used on input line 716.
+Package pdftex.def Info: main_server.pdf , page1 used on input line 732.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
-Package pdftex.def Info: main_server.pdf , page1 used on input line 716.
+Package pdftex.def Info: main_server.pdf , page1 used on input line 732.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
- [28 <./main_server.pdf>]
+ [29 <./main_server.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=571, 597.23125pt x 845.1575pt>
+<server.pdf, id=582, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
 <use server.pdf>
-Package pdftex.def Info: server.pdf  used on input line 717.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-File: server.pdf Graphic file (type pdf)
-<use server.pdf>
-Package pdftex.def Info: server.pdf  used on input line 717.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=574, page=1, 597.23125pt x 845.1575pt>
-File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 1>
-Package pdftex.def Info: server.pdf , page1 used on input line 717.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 1>
-Package pdftex.def Info: server.pdf , page1 used on input line 717.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 1>
-Package pdftex.def Info: server.pdf , page1 used on input line 717.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 1>
-Package pdftex.def Info: server.pdf , page1 used on input line 717.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 1>
-Package pdftex.def Info: server.pdf , page1 used on input line 717.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-[29 <./server.pdf>]
-File: server.pdf Graphic file (type pdf)
-<use server.pdf>
-Package pdftex.def Info: server.pdf  used on input line 718.
+Package pdftex.def Info: server.pdf  used on input line 733.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1925,7 +1885,7 @@ pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
 File: server.pdf Graphic file (type pdf)
 <use server.pdf>
-Package pdftex.def Info: server.pdf  used on input line 718.
+Package pdftex.def Info: server.pdf  used on input line 733.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1935,52 +1895,94 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=583, page=2, 597.23125pt x 845.1575pt>
+<server.pdf, id=585, page=1, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 2>
-Package pdftex.def Info: server.pdf , page2 used on input line 718.
+<use server.pdf, page 1>
+Package pdftex.def Info: server.pdf , page1 used on input line 733.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 2>
-Package pdftex.def Info: server.pdf , page2 used on input line 718.
+<use server.pdf, page 1>
+Package pdftex.def Info: server.pdf , page1 used on input line 733.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 2>
-Package pdftex.def Info: server.pdf , page2 used on input line 718.
+<use server.pdf, page 1>
+Package pdftex.def Info: server.pdf , page1 used on input line 733.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 2>
-Package pdftex.def Info: server.pdf , page2 used on input line 718.
+<use server.pdf, page 1>
+Package pdftex.def Info: server.pdf , page1 used on input line 733.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 2>
-Package pdftex.def Info: server.pdf , page2 used on input line 718.
+<use server.pdf, page 1>
+Package pdftex.def Info: server.pdf , page1 used on input line 733.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 [30 <./server.pdf>]
+File: server.pdf Graphic file (type pdf)
+<use server.pdf>
+Package pdftex.def Info: server.pdf  used on input line 734.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=589, page=3, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 3>
-Package pdftex.def Info: server.pdf , page3 used on input line 718.
+<use server.pdf>
+Package pdftex.def Info: server.pdf  used on input line 734.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<server.pdf, id=594, page=2, 597.23125pt x 845.1575pt>
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 2>
+Package pdftex.def Info: server.pdf , page2 used on input line 734.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 2>
+Package pdftex.def Info: server.pdf , page2 used on input line 734.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 3>
-Package pdftex.def Info: server.pdf , page3 used on input line 718.
+<use server.pdf, page 2>
+Package pdftex.def Info: server.pdf , page2 used on input line 734.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: server.pdf Graphic file (type pdf)
-<use server.pdf, page 3>
-Package pdftex.def Info: server.pdf , page3 used on input line 718.
+<use server.pdf, page 2>
+Package pdftex.def Info: server.pdf , page2 used on input line 734.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 2>
+Package pdftex.def Info: server.pdf , page2 used on input line 734.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 [31 <./server.pdf>]
 
+pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<server.pdf, id=600, page=3, 597.23125pt x 845.1575pt>
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 3>
+Package pdftex.def Info: server.pdf , page3 used on input line 734.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 3>
+Package pdftex.def Info: server.pdf , page3 used on input line 734.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: server.pdf Graphic file (type pdf)
+<use server.pdf, page 3>
+Package pdftex.def Info: server.pdf , page3 used on input line 734.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+[32 <./server.pdf>]
+
 pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_client.pdf, id=595, 597.23125pt x 845.1575pt>
+<main_client.pdf, id=606, 597.23125pt x 845.1575pt>
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf>
-Package pdftex.def Info: main_client.pdf  used on input line 724.
+Package pdftex.def Info: main_client.pdf  used on input line 740.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1988,7 +1990,7 @@ pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf>
-Package pdftex.def Info: main_client.pdf  used on input line 724.
+Package pdftex.def Info: main_client.pdf  used on input line 740.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -1998,77 +2000,35 @@ pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
 
 pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_client.pdf, id=598, page=1, 597.23125pt x 845.1575pt>
+<main_client.pdf, id=609, page=1, 597.23125pt x 845.1575pt>
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
-Package pdftex.def Info: main_client.pdf , page1 used on input line 724.
+Package pdftex.def Info: main_client.pdf , page1 used on input line 740.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
-Package pdftex.def Info: main_client.pdf , page1 used on input line 724.
+Package pdftex.def Info: main_client.pdf , page1 used on input line 740.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
-Package pdftex.def Info: main_client.pdf , page1 used on input line 724.
+Package pdftex.def Info: main_client.pdf , page1 used on input line 740.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
-Package pdftex.def Info: main_client.pdf , page1 used on input line 724.
+Package pdftex.def Info: main_client.pdf , page1 used on input line 740.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
-Package pdftex.def Info: main_client.pdf , page1 used on input line 724.
+Package pdftex.def Info: main_client.pdf , page1 used on input line 740.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-[32 <./main_client.pdf>]
+[33 <./main_client.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=605, 597.23125pt x 845.1575pt>
+<client.pdf, id=618, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
 <use client.pdf>
-Package pdftex.def Info: client.pdf  used on input line 725.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-File: client.pdf Graphic file (type pdf)
-<use client.pdf>
-Package pdftex.def Info: client.pdf  used on input line 725.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-
-
-pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-
-
-pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
-ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=608, page=1, 597.23125pt x 845.1575pt>
-File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 1>
-Package pdftex.def Info: client.pdf , page1 used on input line 725.
-(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
-File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 1>
-Package pdftex.def Info: client.pdf , page1 used on input line 725.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 1>
-Package pdftex.def Info: client.pdf , page1 used on input line 725.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 1>
-Package pdftex.def Info: client.pdf , page1 used on input line 725.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 1>
-Package pdftex.def Info: client.pdf , page1 used on input line 725.
-(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
-[33 <./client.pdf>]
-File: client.pdf Graphic file (type pdf)
-<use client.pdf>
-Package pdftex.def Info: client.pdf  used on input line 726.
+Package pdftex.def Info: client.pdf  used on input line 741.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -2076,7 +2036,7 @@ pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
 File: client.pdf Graphic file (type pdf)
 <use client.pdf>
-Package pdftex.def Info: client.pdf  used on input line 726.
+Package pdftex.def Info: client.pdf  used on input line 741.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 
 
@@ -2086,66 +2046,108 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=618, page=2, 597.23125pt x 845.1575pt>
+<client.pdf, id=621, page=1, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 2>
-Package pdftex.def Info: client.pdf , page2 used on input line 726.
+<use client.pdf, page 1>
+Package pdftex.def Info: client.pdf , page1 used on input line 741.
 (pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 2>
-Package pdftex.def Info: client.pdf , page2 used on input line 726.
+<use client.pdf, page 1>
+Package pdftex.def Info: client.pdf , page1 used on input line 741.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 2>
-Package pdftex.def Info: client.pdf , page2 used on input line 726.
+<use client.pdf, page 1>
+Package pdftex.def Info: client.pdf , page1 used on input line 741.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 2>
-Package pdftex.def Info: client.pdf , page2 used on input line 726.
+<use client.pdf, page 1>
+Package pdftex.def Info: client.pdf , page1 used on input line 741.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 2>
-Package pdftex.def Info: client.pdf , page2 used on input line 726.
+<use client.pdf, page 1>
+Package pdftex.def Info: client.pdf , page1 used on input line 741.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 [34 <./client.pdf>]
+File: client.pdf Graphic file (type pdf)
+<use client.pdf>
+Package pdftex.def Info: client.pdf  used on input line 742.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=625, page=3, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 3>
-Package pdftex.def Info: client.pdf , page3 used on input line 726.
+<use client.pdf>
+Package pdftex.def Info: client.pdf  used on input line 742.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+
+
+pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+
+
+pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<client.pdf, id=630, page=2, 597.23125pt x 845.1575pt>
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 2>
+Package pdftex.def Info: client.pdf , page2 used on input line 742.
+(pdftex.def)             Requested size: 597.22978pt x 845.15544pt.
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 2>
+Package pdftex.def Info: client.pdf , page2 used on input line 742.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 3>
-Package pdftex.def Info: client.pdf , page3 used on input line 726.
+<use client.pdf, page 2>
+Package pdftex.def Info: client.pdf , page2 used on input line 742.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 File: client.pdf Graphic file (type pdf)
-<use client.pdf, page 3>
-Package pdftex.def Info: client.pdf , page3 used on input line 726.
+<use client.pdf, page 2>
+Package pdftex.def Info: client.pdf , page2 used on input line 742.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 2>
+Package pdftex.def Info: client.pdf , page2 used on input line 742.
 (pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
 [35 <./client.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 728.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 728.
+
+pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
+ion <1.7>, but at most version <1.5> allowed
+<client.pdf, id=636, page=3, 597.23125pt x 845.1575pt>
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 3>
+Package pdftex.def Info: client.pdf , page3 used on input line 742.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 3>
+Package pdftex.def Info: client.pdf , page3 used on input line 742.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+File: client.pdf Graphic file (type pdf)
+<use client.pdf, page 3>
+Package pdftex.def Info: client.pdf , page3 used on input line 742.
+(pdftex.def)             Requested size: 477.78564pt x 676.12692pt.
+[36 <./client.pdf>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 744.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 744.
  (./Dokumentation_BT-Projekt.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 728.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 728.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 744.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 744.
 Package rerunfilecheck Info: File `Dokumentation_BT-Projekt.out' has not change
 d.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: There were undefined references.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'Dokumentation_BT-Projekt.run.xml'.
 \openout1 = `Dokumentation_BT-Projekt.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 27267 strings out of 492164
- 477450 string characters out of 6129087
- 1223744 words of memory out of 5000000
- 30973 multiletter control sequences out of 15000+600000
+ 27297 strings out of 492164
+ 477886 string characters out of 6129087
+ 1223798 words of memory out of 5000000
+ 30988 multiletter control sequences out of 15000+600000
  20802 words of font info for 49 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  56i,19n,97p,10083b,3414s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2168,10 +2170,10 @@ ve/2019/texmf-dist/fonts/type1/public/cm-super/sfsx2074.pfb><c:/texlive/2019/te
 xmf-dist/fonts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2019/texmf-dist/f
 onts/type1/public/cm-super/sftt0900.pfb><c:/texlive/2019/texmf-dist/fonts/type1
 /public/cm-super/sftt1095.pfb>
-Output written on Dokumentation_BT-Projekt.pdf (39 pages, 28670395 bytes).
+Output written on Dokumentation_BT-Projekt.pdf (40 pages, 28672998 bytes).
 PDF statistics:
- 870 PDF objects out of 1000 (max. 8388607)
- 751 compressed objects within 8 object streams
- 193 named destinations out of 1000 (max. 500000)
+ 881 PDF objects out of 1000 (max. 8388607)
+ 761 compressed objects within 8 object streams
+ 195 named destinations out of 1000 (max. 500000)
  545 words of extra memory for PDF output out of 10000 (max. 10000000)
 

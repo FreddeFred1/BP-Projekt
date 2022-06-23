@@ -59,6 +59,7 @@
 \definecolor{hellgren}{rgb}{0.251,1,0.255} % definiere blau für Füllfarbe
 \definecolor{dunkelgren}{rgb}{0,0.25,0} % definiere blau für Füllfarbe
 \definecolor{grua2}{rgb}{0.5,0.5,0.5} % definiere blau für Füllfarbe
+\definecolor{hellblau}{rgb}{0.598,0.8,1} % definiere blau für Füllfarbe
 % Einstellungen für Listings
 %\lstset{captionpos=b, 
 %	language=java, 
@@ -326,21 +327,36 @@ Um die verschiedenen Zustände der Betriebsmittel darzustellen, haben die Animat
 	\caption{Tabelle zur Auflistung der Farben der Motoren \label{tab:Farben Motoren}}
 \end{longtable} 
 
-Die Bitwerte werden so definiert, dass jeweils immer nur ein Bit gesetzt werden muss und gesetzt ist. Dadurch können die Bits von $2^{0}$ bis $2^{4}$ einzeln angesteuert werden. Dies passiert je nach Zustand der Motoren. Ist kein Bit gesetzt färben sich die Motorenbausteine grau, dies passiert, wenn die ganze Anlage ausgeschaltet wird oder per NOT-Aus abgeschaltet wird. Ist das $2^{0}$ auf 1 gesetzt, wird der Bildbaustein rot gefärbt. Damit wird die Störung der Förderschnecke angezeigt. Gestört ist die Schnecke, wenn zu viel Material in der Schnecke ist und dadurch die Drehzahl zu niedrig ist und der Drehzahlmelder oder der Motorschutzschalter auslösen. Ebenso ist die Schnecke gestört, wenn der Leitungsschutzleiter ausgelöst hat. Um die Färbung zurückzusetzen muss mit den Quittierungsschalter der Fehler quittiert werden. Dadurch wird das $2^{0}$ zurückgesetzt und das $2^{1}$ gesetzt. Nun ist Schnecke betriebsbereit und wartet auf das Einschalten durch den Benutzer über das Pannel. Wird die Schnecke eingeschaltet wird das $2^{1}$ wieder zurückgesetzt. Nun kommt es darauf an, ob der Motor mit einem \ref{ac:fu} oder per Direktantrieb eingeschaltet wird. Sollte er per \ref{ac:fu} eingeschaltet werden, wird das $2^{2}$ gesetzt und der Motor färbt sich gelb. Dies bedeutet, dass der Motor mit dem Hochlaufen beginnt. Schafft er dies nicht in einer vorgegeben Zeit tritt eine Störung auf und die rote Färbung erscheint erneut. Ist das Hochlaufen absolviert wird das $2^{2}$ Bit zurückgesetzt und das $2^{3}$ Bit gesetzt und der Motor wird grün gefärbt. Dies passiert ohne \ref{ac:fu} direkt, da es kein Hochlauf des Motors gibt. Sobald der Motor ausgeschaltet wird wird das Bit zurück gesetzt und der Motor ist erneut blau, da dann in die Betriebsbereitschaft versetzt wird. Sollte ein \ref{ac:fu} vorhanden sein wird für das runterlaufen des Motors das $2^{4}$ Bit gesetzt und der Motor leuchtet erneut gelb bis er aus ist und wie der Motor ohne \ref{ac:fu} wieder in Betriebsbereitschaft ist. 
+Die Variable, die für die Animation verwendet wird, hat den Datentyp Integer. Dieses Format ergibt immer eine Zahl aus Bits. Die Bitwerte werden so definiert, dass jeweils immer nur ein Bit gesetzt werden muss und gesetzt ist. Dadurch können die Bits von $2^{0}$ bis $2^{4}$ einzeln angesteuert werden. Dies passiert je nach Zustand der Motoren. Ist kein Bit gesetzt färben sich die Motorenbausteine grau, dies passiert, wenn die ganze Anlage ausgeschaltet wird oder per NOT-Aus abgeschaltet wird. Ist das $2^{0}$ auf 1 gesetzt, wird der Bildbaustein rot gefärbt. Damit wird die Störung der Förderschnecke angezeigt. Gestört ist die Schnecke, wenn zu viel Material in der Schnecke ist und dadurch die Drehzahl zu niedrig ist und der Drehzahlmelder oder der Motorschutzschalter auslösen. Ebenso ist die Schnecke gestört, wenn der Leitungsschutzleiter ausgelöst hat. Um die Färbung zurückzusetzen muss mit den Quittierungsschalter der Fehler quittiert werden. Dadurch wird das $2^{0}$ zurückgesetzt und das $2^{1}$ gesetzt. Nun ist Schnecke betriebsbereit und wartet auf das Einschalten durch den Benutzer über das Pannel. Wird die Schnecke eingeschaltet wird das $2^{1}$ wieder zurückgesetzt. Nun kommt es darauf an, ob der Motor mit einem \gls{ac:fu} oder per Direktantrieb eingeschaltet wird. Sollte er per \gls{ac:fu} eingeschaltet werden, wird das $2^{2}$ gesetzt und der Motor färbt sich gelb. Dies bedeutet, dass der Motor mit dem Hochlaufen beginnt. Schafft er dies nicht in einer vorgegeben Zeit tritt eine Störung auf und die rote Färbung erscheint erneut. Ist das Hochlaufen absolviert wird das $2^{2}$ Bit zurückgesetzt und das $2^{3}$ Bit gesetzt und der Motor wird grün gefärbt. Dies passiert ohne \gls{ac:fu} direkt, da es kein Hochlauf des Motors gibt. Sobald der Motor ausgeschaltet wird wird das Bit zurück gesetzt und der Motor ist erneut blau, da dann in die Betriebsbereitschaft versetzt wird. Sollte ein \gls{ac:fu} vorhanden sein wird für das runterlaufen des Motors das $2^{4}$ Bit gesetzt und der Motor leuchtet erneut gelb bis er aus ist und wie der Motor ohne \gls{ac:fu} wieder in Betriebsbereitschaft ist.  
 
 \begin{longtable}{|C{2cm}|C{2cm}|C{2cm}|C{7.5cm}|}
 	\hline \textbf{Bitwert} & \textbf{Farbe} & \textbf{Füllung} &  \textbf{Bedeutung}  \endhead
-	\hline  0 & grau & \colorbox{grua2}{\textcolor{grua2}{Füllung}} & Rohr ist inaktiv \\ 
+	\hline  0 & grau & \colorbox{grua2}{\textcolor{grua2}{Füllung}} & Rohr ist inaktiv (Anlage ist ausgeschaltet)\\ 
 	\hline  1 & rot & \colorbox{rot}{\textcolor{rot}{Füllung}}& Förderschnecke ist gestört, kein Transport\\ 
-	\hline  2 & hellgrün & \colorbox{hellgren}{\textcolor{hellgren}{Füllung}} & Rohr wartet auf Flakes \\ 
+	\hline  2 & hellgrün & \colorbox{hellblau}{\textcolor{hellblau}{Füllung}} & Rohr wartet auf Flakes \\ 
 	\hline  4 & dunkelgrün & \colorbox{dunkelgren}{\textcolor{dunkelgren}{Füllung}}& Flakes werden transportiert \\ 
 	\hline
 	\caption{Tabelle zur Auflistung der Farben der Motoren \label{tab:Farben Rohre}}
 \end{longtable} 
 
+In Tabelle \ref{tab:Farben Rohre} sind die Färbungen der Rohre aufgezeigt. Ein Rohr hat dabei vier mögliche Zustände, die von den Bits $2^{0}$ bis $2^{2}$ definiert werden können. Ist kein Bit gesetzt ist das Rohr grau eingefärbt. Dies passiert, wenn die Anlage ausgeschaltet wurde und keine Komponenten mehr aktiv sind. Wird das $2^{0}$ Bit gesetzt ist eine Störung aufgetreten, da die Rohre mit den Motoren verknüpft sind, gibt es immer eine Störung, wenn die vorherige Förderschnecke gestört ist. Befindet sich die Förderschnecke in Betriebsbereitschaft wird das $2^{1}$ Bit gesetzt und das Rohr ist hellblau gefärbt. Fördert die Schnecke Material durch das Rohr oder läuft hoch oder runter, wird das $2^{2}$ Bit gesetzt. Sobald Material von der Förderschnecke bewegt wird, wird das Rohr dunkelgrün gefärbt, damit der Materialfluss deutlich nachvollzogen werden kann. 
 
 \subsection{Sichtbarkeit von Bausteinen}
 %---------------------------------------------------------------------
+
+Neben der Färbung gibt es auch die Möglichkeit die Sichtbarkeit von Bausteinen und Linien von einer Variablen abhängig zu machen. Dies ist besonders bei wenig Platz von Vorteil, da nicht benötigte Elemente einfach ausgeblendet werden können. In der Abbildung Chaos! ist es deutlich zu sehen wie eng die Linien an einander vorbei laufen. 
+
+\begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
+	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
+		\includegraphics[width=14.85cm,height=10.5cm]{./_bilder/Chaos.png} % 80-Prozent der Textbreite, nur PDF und PNG
+		\caption[Übersicht der Antriebe]
+		{Übersicht der Antriebe}
+		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
+		\label{fig:übersicht}
+	} % schliesst \centering
+\end{figure} % schliesst die Umgebung 
+
+
 \chapter{Joy-Pi}
 Dieses Kapitel behandelt den Joy-Pi-Koffer. Es soll gezeigt werden woraus der Koffer besteht und welche Besonderheiten er hat.
 
