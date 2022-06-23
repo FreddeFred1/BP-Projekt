@@ -344,18 +344,31 @@ In Tabelle \ref{tab:Farben Rohre} sind die Färbungen der Rohre aufgezeigt. Ein 
 \subsection{Sichtbarkeit von Bausteinen}
 %---------------------------------------------------------------------
 
-Neben der Färbung gibt es auch die Möglichkeit die Sichtbarkeit von Bausteinen und Linien von einer Variablen abhängig zu machen. Dies ist besonders bei wenig Platz von Vorteil, da nicht benötigte Elemente einfach ausgeblendet werden können. In der Abbildung Chaos! ist es deutlich zu sehen wie eng die Linien an einander vorbei laufen. 
+Neben der Färbung gibt es auch die Möglichkeit die Sichtbarkeit von Bausteinen und Linien von einer Variablen abhängig zu machen. Dies ist besonders bei wenig Platz von Vorteil, da nicht benötigte Elemente einfach ausgeblendet werden können. In der Abbildung \ref{fig:Chaos} ist es deutlich zu sehen wie eng die Linien aneinander vorbei laufen. 
 
 \begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
 	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
-		\includegraphics[width=14.85cm,height=10.5cm]{./_bilder/Chaos.png} % 80-Prozent der Textbreite, nur PDF und PNG
-		\caption[Übersicht der Antriebe]
-		{Übersicht der Antriebe}
+		\includegraphics[width=14.85cm,height=4.2cm]{./_bilder/Chaos.png} % 80-Prozent der Textbreite, nur PDF und PNG
+		\caption[Zu enge Rohrdarstellung]
+		{Zu enge Rohrdarstellung}
 		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
-		\label{fig:übersicht}
+		\label{fig:Chaos}
 	} % schliesst \centering
 \end{figure} % schliesst die Umgebung 
 
+Damit nun keine Verwirrung durch zu viele verschieden farbige Linien auf einen Fleck entsteht, werden die nicht aktiven Linien ausgeblendet. Dafür kann in den Eigenschaften die Sichtbarkeit eingestellt werden. Denn nur das aktive Rohr soll sichtbar sein. In Abbildung \ref{fig:sichtbar} ist zu sehen, welche Variable dafür benötigt wird. 
+ 
+ \begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
+ 	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
+ 		\includegraphics[width=10.0cm,height=6.18cm]{./_bilder/sichtbarmachen.png} % 80-Prozent der Textbreite, nur PDF und PNG
+ 		\caption[Verwendung der Variable für die Sichtbarkeit]
+ 		{Verwendung der Variable für die Sichtbarkeit}
+ 		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
+ 		\label{fig:sichtbar}
+ 	} % schliesst \centering
+ \end{figure} % schliesst die Umgebung 
+
+Die Variable DB404 Rohrleitung Mischer\_Rohr5 ist ein Integer der aus dem Datenbaustein abgelesen wird. In dem Bereich des Bitwertes von vier bis vier ist diese Rohrleitung sichtbar. Der Wert tritt auf sobald die Förderschnecke und das Ventil zum Mischer aktiv sind. Ist dies nicht der Fall bleibt die Linie unsichtbar.
 
 \chapter{Joy-Pi}
 Dieses Kapitel behandelt den Joy-Pi-Koffer. Es soll gezeigt werden woraus der Koffer besteht und welche Besonderheiten er hat.
