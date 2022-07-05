@@ -129,6 +129,7 @@
 \newacronym{ac:pet}{PET}{Polyethylenterephthalat}
 \newacronym{ac:sps}{SPS}{Speicherprogrammierbare Steuerung}
 \newacronym{ac:fu}{FU}{Frequenzumrichter}
+\newacronym{ac:cpu}{COU}{Central prozessing  unit}
 
 
 \newcommand{\ptitel}{\emph{Mein Projekt-Titel}}
@@ -303,7 +304,7 @@ In der Analyse der Unterlagen werden die
 
 \chapter{Erstellung der Linientopologie}
 
-
+Damit die Geräte untereinander kommunizieren können, wird eine feste Vergabe der \gls{ac:ip}-Adressen und eine Linientopologie benötigt. Dabei wird den angeschlossenen Geräten eine feste \gls{ac:ip}-Adresse vergeben. Die SIEMENS \gls{ac:cpu} bekommt dabei die erste Adresse zugeteilt, damit von der Position aus die Linie begonnen werden kann. Bei der Linientopologie sind alle Geräte hintereinander verschaltet, da diese Art der Kommunikation untereinander ausreicht und keine komplexen Topologiearten benötigt werden. Die zweite und dritte \gls{ac:ip}-Adresse bekommt jeweils ein I/O-Modul, da diese am nächsten an der \gls{ac:cpu} sind. Die vierte \gls{ac:ip}-Adresse bekommt das Comfortpannel, da dies die Bedienstelle ist. Die nächsten \gls{ac:ip}-Adressen werden nach der Position im Ablauf des Prozesses an die \gls{ac:fu}s vergeben. 
 
 \chapter{Umsetzung in TIA-Portal}
 
@@ -368,7 +369,9 @@ Damit nun keine Verwirrung durch zu viele verschieden farbige Linien auf einen F
  	} % schliesst \centering
  \end{figure} % schliesst die Umgebung 
 
-Die Variable DB404 Rohrleitung Mischer\_Rohr5 ist ein Integer der aus dem Datenbaustein abgelesen wird. In dem Bereich des Bitwertes von vier bis vier ist diese Rohrleitung sichtbar. Der Wert tritt auf sobald die Förderschnecke und das Ventil zum Mischer aktiv sind. Ist dies nicht der Fall bleibt die Linie unsichtbar.
+Die \glqq Variable DB404 Rohrleitung Mischer\_Rohr5\grqq ist ein Integer der aus dem Datenbaustein 404 abgelesen wird. In dem Bereich des Bitwertes von vier bis vier ist diese Rohrleitung sichtbar. Der Wert tritt auf sobald die Förderschnecke und das Ventil zum Mischer aktiv sind. Ist dies nicht der Fall bleibt die Linie unsichtbar. In Abbildung 4.2 ist sind die engen Rohrverläufe ausgeblendet und nur noch eine Linie sichtbar, damit keine Verwirrung entsteht. \\
+
+Die Sichtbarkeit spielt auch bei den Pop-Ups eine große Rolle. In diese sind so viele Informationen und Funktionen eingebettet, dass durch Überlappungen nichts erkannt oder bedient werden kann. In diesem Fall verteilt man die zusammengehörigen Bausteine auf verschiedene Ebenen. Durch das Betätigen einer Schaltfläche aus dem Menü wird ein Merker gesetzt. Über diese Merker kann dann eingestellt werden, welche Bausteine Sichtbar sind und nur wenn die diese sichtbar sind können sie auch bedient werden. 
 
 \chapter{Joy-Pi}
 Dieses Kapitel behandelt den Joy-Pi-Koffer. Es soll gezeigt werden woraus der Koffer besteht und welche Besonderheiten er hat.
