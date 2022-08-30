@@ -350,14 +350,14 @@ Neben der Färbung gibt es auch die Möglichkeit die Sichtbarkeit von Bausteinen
 \begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
 	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
 		\includegraphics[width=14.85cm,height=4.2cm]{./_bilder/Chaos.png} % 80-Prozent der Textbreite, nur PDF und PNG
-		\caption[Zu enge Rohrdarstellung]
+		\caption[Zu unübersichtliche Rohrdarstellung]
 		{Zu enge Rohrdarstellung}
 		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
 		\label{fig:Chaos}
 	} % schliesst \centering
 \end{figure} % schliesst die Umgebung 
 
-Damit nun keine Verwirrung durch zu viele verschieden farbige Linien auf einen Fleck entsteht, werden die nicht aktiven Linien ausgeblendet. Dafür kann in den Eigenschaften die Sichtbarkeit eingestellt werden. Denn nur das aktive Rohr soll sichtbar sein. In Abbildung \ref{fig:sichtbar} ist zu sehen, welche Variable dafür benötigt wird. 
+Damit nun keine Verwirrung durch zu viele verschieden farbige Linien auf einem Fleck entsteht, werden die nicht aktiven Linien ausgeblendet. Dafür kann in den Eigenschaften der Linie über die Sichtbarkeit mit einer Variable bestimmt werden. Für eine Variable kommen alle Variablen in Frage, die den Datentyp Integer besitzen. Denn nur das jeweils aktive Rohr hinter der Förderschnecke 17 und 20 soll sichtbar sein. Durch die Programmierung der Anlage soll sichergestellt werden, dass nur ein Ventil hinter der Förderschnecke geöffnet sein kann. In Abbildung \ref{fig:sichtbar} ist zu sehen, welche Variable dafür benötigt wird. 
  
  \begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
  	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
@@ -369,9 +369,31 @@ Damit nun keine Verwirrung durch zu viele verschieden farbige Linien auf einen F
  	} % schliesst \centering
  \end{figure} % schliesst die Umgebung 
 
-Die \glqq Variable DB404 Rohrleitung Mischer\_Rohr5\grqq ist ein Integer der aus dem Datenbaustein 404 abgelesen wird. In dem Bereich des Bitwertes von vier bis vier ist diese Rohrleitung sichtbar. Der Wert tritt auf sobald die Förderschnecke und das Ventil zum Mischer aktiv sind. Ist dies nicht der Fall bleibt die Linie unsichtbar. In Abbildung 4.2 ist sind die engen Rohrverläufe ausgeblendet und nur noch eine Linie sichtbar, damit keine Verwirrung entsteht. \\
+Die \glqq Variable DB404 Rohrleitung Mischer\_Rohr5\grqq \textcolor{white}{l}ist ein Integer, der aus dem Datenbaustein 404 abgelesen wird. In diesem Baustein ist nur die Färbung der einzelnen Rohre hinterlegt. Die Daten dazu werden aus anderen Datenbausteinen, die mit der Steuerung verknüpft sind, abgelesen. In dem Bereich des Bitwertes von vier bis vier ist diese Rohrleitung sichtbar. Der Wert vier wurde im Vorfeld definiert, dass bei aktiver Förderschnecke und geöffnetem Ventil dieser Wert übergeben wird. Sind die Förderschnecke inaktiv und das Ventil geschlossen bleibt die Linie unsichtbar. In Abbildung \ref{fig:Rohre_aus} sind die engen und unübersichtlichen Rohrverläufe fortan ausgeblendet. \\
 
-Die Sichtbarkeit spielt auch bei den Pop-Ups eine große Rolle. In diese sind so viele Informationen und Funktionen eingebettet, dass durch Überlappungen nichts erkannt oder bedient werden kann. In diesem Fall verteilt man die zusammengehörigen Bausteine auf verschiedene Ebenen. Durch das Betätigen einer Schaltfläche aus dem Menü wird ein Merker gesetzt. Über diese Merker kann dann eingestellt werden, welche Bausteine Sichtbar sind und nur wenn die diese sichtbar sind können sie auch bedient werden. 
+ \begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
+	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
+		\includegraphics[width=14.85cm,height=4.5cm]{./_bilder/Rohre aus.png} % 80-Prozent der Textbreite, nur PDF und PNG
+		\caption[Ausgeblendete Rohre]
+		{Ausgeblendete Rohre}
+		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
+		\label{fig:Rohre_aus}
+	} % schliesst \centering
+\end{figure} % schliesst die Umgebung 
+
+Ab jetzt ist nur noch eine Linie pro Förderschnecke sichtbar, damit keine Verwirrung entsteht. Die Sichtbare Linie wird zudem nur angezeigt, wenn das Ventil zum Mischer geöffnet ist. Falls ein Mischer befüllt werden soll, der vor dem angesteuerten Mischer liegt, wird das Ventil des weiter entfernten Mischers geschlossen. Dadurch wird nun die Linie zu dem Mischer unsichtbar und zu dem näheren Mischer wird sichtbar. In Abbildung \ref{fig:Rohre_an} ist bei der Förderschnecke 17 der erste Mischer aktiviert und nur diese Linie sichtbar. Bei Förderschnecke 20 ist der vierte Mischer aktiviert. Dadurch ist die Linie zu diesem Mischer sichtbar und zu dem fünften Mischer nicht sichtbar, weil dieser nicht angesteuert wird 
+
+\begin{figure}[H] % H: figure wird an dieser Stelle eingefügt
+	\centering{ % der Inhalt von figure wird zentriert ausgerichtet
+		\includegraphics[width=14.85cm,height=4.5cm]{./_bilder/Rohre_an.png} % 80-Prozent der Textbreite, nur PDF und PNG
+		\caption[Einzeln eingeblendete Rohre]
+		{Einzeln eingeblendete Rohre}
+		% [...] ist für das Abbildungsverzeichnis ohne Fußnote, {...} Beschriftung mit Fußnote (\footnotetext{...})
+		\label{fig:Rohre_an}
+	} % schliesst \centering
+\end{figure} % schliesst die Umgebung
+
+Die Sichtbarkeit spielt auch bei den Pop-Ups eine große Rolle. In diese sind so viele Informationen und Funktionen eingebettet, dass durch Überlappungen nichts erkannt oder bedient werden kann. In diesem Fall verteilt man die zusammengehörigen Bausteine auf verschiedene Ebenen. Durch das Betätigen einer Schaltfläche aus dem Menü wird ein Merker gesetzt. Über diese Merker kann dann eingestellt werden, welche Ebene sichtbar ist. Nur wenn diese Schaltflächen sichtbar sind können sie auch bedient werden. 
 
 \chapter{Joy-Pi}
 Dieses Kapitel behandelt den Joy-Pi-Koffer. Es soll gezeigt werden woraus der Koffer besteht und welche Besonderheiten er hat.
