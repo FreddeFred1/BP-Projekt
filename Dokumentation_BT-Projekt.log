@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.26)  30 AUG 2022 14:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.5.26)  30 AUG 2022 20:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1240,7 +1240,7 @@ File: ./_bilder/Rohre aus.png Graphic file (type png)
 <use ./_bilder/Rohre aus.png>
 Package pdftex.def Info: ./_bilder/Rohre aus.png  used on input line 376.
 (pdftex.def)             Requested size: 422.52225pt x 128.03795pt.
-<./_bilder/Rohre_an.png, id=203, 874.76813pt x 264.99pt>
+<./_bilder/Rohre_an.png, id=204, 874.76813pt x 264.99pt>
 File: ./_bilder/Rohre_an.png Graphic file (type png)
 <use ./_bilder/Rohre_an.png>
 Package pdftex.def Info: ./_bilder/Rohre_an.png  used on input line 388.
@@ -1248,12 +1248,12 @@ Package pdftex.def Info: ./_bilder/Rohre_an.png  used on input line 388.
 [8 <./_bilder/sichtbarmachen.PNG> <./_bilder/Rohre aus.PNG>] [9 <./_bilder/Rohr
 e_an.PNG>]
 chapter 5.
-<./_bilder/koffer.jpg, id=219, 2107.875pt x 2167.09625pt>
+<./_bilder/koffer.jpg, id=220, 2107.875pt x 2167.09625pt>
 File: ./_bilder/koffer.jpg Graphic file (type jpg)
 <use ./_bilder/koffer.jpg>
 Package pdftex.def Info: ./_bilder/koffer.jpg  used on input line 405.
 (pdftex.def)             Requested size: 284.51868pt x 284.51004pt.
-<./_bilder/raspi.jpg, id=222, 506.89375pt x 589.20125pt>
+<./_bilder/raspi.jpg, id=223, 506.89375pt x 589.20125pt>
 File: ./_bilder/raspi.jpg Graphic file (type jpg)
 <use ./_bilder/raspi.jpg>
 Package pdftex.def Info: ./_bilder/raspi.jpg  used on input line 416.
@@ -1261,7 +1261,7 @@ Package pdftex.def Info: ./_bilder/raspi.jpg  used on input line 416.
 [10
 
  <./_bilder/koffer.jpg>]
-<./_bilder/Sensoren_Aktoren.png, id=231, 3540.22626pt x 2168.1pt>
+<./_bilder/Sensoren_Aktoren.png, id=232, 3540.22626pt x 2168.1pt>
 File: ./_bilder/Sensoren_Aktoren.png Graphic file (type png)
 <use ./_bilder/Sensoren_Aktoren.png>
 Package pdftex.def Info: ./_bilder/Sensoren_Aktoren.png  used on input line 428
@@ -1276,20 +1276,20 @@ Underfull \vbox (badness 10000) detected at line 472
  []
 
 [12]
-<./_bilder/Board_Nummern.png, id=262, 480.79625pt x 141.02687pt>
+<./_bilder/Board_Nummern.png, id=263, 480.79625pt x 141.02687pt>
 File: ./_bilder/Board_Nummern.png Graphic file (type png)
 <use ./_bilder/Board_Nummern.png>
 Package pdftex.def Info: ./_bilder/Board_Nummern.png  used on input line 484.
 (pdftex.def)             Requested size: 398.34915pt x 113.81151pt.
  [13 <./_bilder/Board_Nummern.png>]
 chapter 6.
-<./_bilder/Buttons_Beschriftet.png, id=279, 468.24937pt x 460.72125pt>
+<./_bilder/Buttons_Beschriftet.png, id=280, 468.24937pt x 460.72125pt>
 File: ./_bilder/Buttons_Beschriftet.png Graphic file (type png)
 <use ./_bilder/Buttons_Beschriftet.png>
 Package pdftex.def Info: ./_bilder/Buttons_Beschriftet.png  used on input line 
 506.
 (pdftex.def)             Requested size: 199.17125pt x 199.1678pt.
-<./_bilder/LED_beschriftet.png, id=280, 219.82124pt x 462.22687pt>
+<./_bilder/LED_beschriftet.png, id=281, 219.82124pt x 462.22687pt>
 File: ./_bilder/LED_beschriftet.png Graphic file (type png)
 <use ./_bilder/LED_beschriftet.png>
 Package pdftex.def Info: ./_bilder/LED_beschriftet.png  used on input line 515.
@@ -1433,7 +1433,7 @@ Package xcolor Warning: Incompatible color definition on input line 553.
 
 Package xcolor Warning: Incompatible color definition on input line 553.
 
-<./_bilder/Gui_1-aus_2-an.png, id=336, 416.30531pt x 85.06781pt>
+<./_bilder/Gui_1-aus_2-an.png, id=337, 416.30531pt x 85.06781pt>
 File: ./_bilder/Gui_1-aus_2-an.png Graphic file (type png)
 <use ./_bilder/Gui_1-aus_2-an.png>
 Package pdftex.def Info: ./_bilder/Gui_1-aus_2-an.png  used on input line 570.
@@ -1606,7 +1606,7 @@ Package xcolor Warning: Incompatible color definition on input line 608.
 Package xcolor Warning: Incompatible color definition on input line 608.
 
 [17]
-<./_bilder/Kommunikation_1.png, id=409, 388.95313pt x 131.49126pt>
+<./_bilder/Kommunikation_1.png, id=410, 388.95313pt x 131.49126pt>
 File: ./_bilder/Kommunikation_1.png Graphic file (type png)
 <use ./_bilder/Kommunikation_1.png>
 Package pdftex.def Info: ./_bilder/Kommunikation_1.png  used on input line 622.
@@ -1625,7 +1625,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 631--635
 
 [18 <./_bilder/Kommunikation_1.png>]
 chapter 7.
-<./_bilder/Hardware.png, id=438, 3540.22626pt x 2168.1pt>
+<./_bilder/Hardware.png, id=439, 3540.22626pt x 2168.1pt>
 File: ./_bilder/Hardware.png Graphic file (type png)
 <use ./_bilder/Hardware.png>
 Package pdftex.def Info: ./_bilder/Hardware.png  used on input line 644.
@@ -1633,28 +1633,28 @@ Package pdftex.def Info: ./_bilder/Hardware.png  used on input line 644.
 [19
 
  <./_bilder/Hardware.png>]
-<./_bilder/LEDZustand.jpg, id=451, 2792.4325pt x 1100.11pt>
+<./_bilder/LEDZustand.jpg, id=452, 2792.4325pt x 1100.11pt>
 File: ./_bilder/LEDZustand.jpg Graphic file (type jpg)
 <use ./_bilder/LEDZustand.jpg>
 Package pdftex.def Info: ./_bilder/LEDZustand.jpg  used on input line 656.
 (pdftex.def)             Requested size: 455.24411pt x 179.34488pt.
-<./_bilder/GUI1an.jpg, id=458, 853.1875pt x 200.75pt>
+<./_bilder/GUI1an.jpg, id=459, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI1an.jpg Graphic file (type jpg)
 <use ./_bilder/GUI1an.jpg>
 Package pdftex.def Info: ./_bilder/GUI1an.jpg  used on input line 670.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
-<./_bilder/GUI1aus.jpg, id=459, 853.1875pt x 200.75pt>
+<./_bilder/GUI1aus.jpg, id=460, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI1aus.jpg Graphic file (type jpg)
 <use ./_bilder/GUI1aus.jpg>
 Package pdftex.def Info: ./_bilder/GUI1aus.jpg  used on input line 680.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
  [20 <./_bilder/LEDZustand.JPG> <./_bilder/GUI1an.JPG>]
-<./_bilder/GUI2an.jpg, id=470, 853.1875pt x 200.75pt>
+<./_bilder/GUI2an.jpg, id=471, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI2an.jpg Graphic file (type jpg)
 <use ./_bilder/GUI2an.jpg>
 Package pdftex.def Info: ./_bilder/GUI2an.jpg  used on input line 692.
 (pdftex.def)             Requested size: 455.24411pt x 107.11989pt.
-<./_bilder/GUI2aus.jpg, id=471, 853.1875pt x 200.75pt>
+<./_bilder/GUI2aus.jpg, id=472, 853.1875pt x 200.75pt>
 File: ./_bilder/GUI2aus.jpg Graphic file (type jpg)
 <use ./_bilder/GUI2aus.jpg>
 Package pdftex.def Info: ./_bilder/GUI2aus.jpg  used on input line 702.
@@ -1809,7 +1809,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 764--769
 
 pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_server.pdf, id=591, 597.23125pt x 845.1575pt>
+<main_server.pdf, id=592, 597.23125pt x 845.1575pt>
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf>
 Package pdftex.def Info: main_server.pdf  used on input line 770.
@@ -1830,7 +1830,7 @@ pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
 
 pdfTeX warning: pdflatex.exe (file ./main_server.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_server.pdf, id=594, page=1, 597.23125pt x 845.1575pt>
+<main_server.pdf, id=595, page=1, 597.23125pt x 845.1575pt>
 File: main_server.pdf Graphic file (type pdf)
 <use main_server.pdf, page 1>
 Package pdftex.def Info: main_server.pdf , page1 used on input line 770.
@@ -1858,7 +1858,7 @@ Package pdftex.def Info: main_server.pdf , page1 used on input line 770.
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=605, 597.23125pt x 845.1575pt>
+<server.pdf, id=606, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
 <use server.pdf>
 Package pdftex.def Info: server.pdf  used on input line 771.
@@ -1879,7 +1879,7 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=608, page=1, 597.23125pt x 845.1575pt>
+<server.pdf, id=609, page=1, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
 <use server.pdf, page 1>
 Package pdftex.def Info: server.pdf , page1 used on input line 771.
@@ -1921,7 +1921,7 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=618, page=2, 597.23125pt x 845.1575pt>
+<server.pdf, id=619, page=2, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
 <use server.pdf, page 2>
 Package pdftex.def Info: server.pdf , page2 used on input line 772.
@@ -1946,7 +1946,7 @@ Package pdftex.def Info: server.pdf , page2 used on input line 772.
 
 pdfTeX warning: pdflatex.exe (file ./server.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<server.pdf, id=624, page=3, 597.23125pt x 845.1575pt>
+<server.pdf, id=625, page=3, 597.23125pt x 845.1575pt>
 File: server.pdf Graphic file (type pdf)
 <use server.pdf, page 3>
 Package pdftex.def Info: server.pdf , page3 used on input line 772.
@@ -1963,7 +1963,7 @@ Package pdftex.def Info: server.pdf , page3 used on input line 772.
 
 pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_client.pdf, id=631, 597.23125pt x 845.1575pt>
+<main_client.pdf, id=632, 597.23125pt x 845.1575pt>
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf>
 Package pdftex.def Info: main_client.pdf  used on input line 778.
@@ -1984,7 +1984,7 @@ pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
 
 pdfTeX warning: pdflatex.exe (file ./main_client.pdf): PDF inclusion: found PDF
  version <1.7>, but at most version <1.5> allowed
-<main_client.pdf, id=634, page=1, 597.23125pt x 845.1575pt>
+<main_client.pdf, id=635, page=1, 597.23125pt x 845.1575pt>
 File: main_client.pdf Graphic file (type pdf)
 <use main_client.pdf, page 1>
 Package pdftex.def Info: main_client.pdf , page1 used on input line 778.
@@ -2009,7 +2009,7 @@ Package pdftex.def Info: main_client.pdf , page1 used on input line 778.
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=641, 597.23125pt x 845.1575pt>
+<client.pdf, id=642, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
 <use client.pdf>
 Package pdftex.def Info: client.pdf  used on input line 779.
@@ -2030,7 +2030,7 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=644, page=1, 597.23125pt x 845.1575pt>
+<client.pdf, id=645, page=1, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
 <use client.pdf, page 1>
 Package pdftex.def Info: client.pdf , page1 used on input line 779.
@@ -2072,7 +2072,7 @@ ion <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=653, page=2, 597.23125pt x 845.1575pt>
+<client.pdf, id=654, page=2, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
 <use client.pdf, page 2>
 Package pdftex.def Info: client.pdf , page2 used on input line 780.
@@ -2097,7 +2097,7 @@ Package pdftex.def Info: client.pdf , page2 used on input line 780.
 
 pdfTeX warning: pdflatex.exe (file ./client.pdf): PDF inclusion: found PDF vers
 ion <1.7>, but at most version <1.5> allowed
-<client.pdf, id=659, page=3, 597.23125pt x 845.1575pt>
+<client.pdf, id=660, page=3, 597.23125pt x 845.1575pt>
 File: client.pdf Graphic file (type pdf)
 <use client.pdf, page 3>
 Package pdftex.def Info: client.pdf , page3 used on input line 780.
@@ -2153,10 +2153,10 @@ c:/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfsx1440.pfb><c:/texlive
 f-dist/fonts/type1/public/cm-super/sfti1095.pfb><c:/texlive/2020/texmf-dist/fon
 ts/type1/public/cm-super/sftt0900.pfb><c:/texlive/2020/texmf-dist/fonts/type1/p
 ublic/cm-super/sftt1095.pfb>
-Output written on Dokumentation_BT-Projekt.pdf (41 pages, 28794973 bytes).
+Output written on Dokumentation_BT-Projekt.pdf (41 pages, 28795403 bytes).
 PDF statistics:
- 904 PDF objects out of 1000 (max. 8388607)
- 776 compressed objects within 8 object streams
+ 905 PDF objects out of 1000 (max. 8388607)
+ 777 compressed objects within 8 object streams
  193 named destinations out of 1000 (max. 500000)
  565 words of extra memory for PDF output out of 10000 (max. 10000000)
 
